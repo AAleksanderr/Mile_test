@@ -51,6 +51,7 @@
     <Compile Include="Models\ListItem.cs" />
     <Compile Include="Models\Tree.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StorageServiceSettings\Connection.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
